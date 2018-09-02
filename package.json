@@ -16,7 +16,7 @@
   "scripts": {
     "react:start": "react-scripts start",
     "start":"set NODE_ENV = production && node ./server/runServer",
-    "build": "react-scripts build",
+    "build": "react-scripts build",  
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
